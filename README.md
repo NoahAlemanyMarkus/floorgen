@@ -24,6 +24,4 @@ The random numbers come from mulberry32. I didn't write that part, it's a well k
 
 `floor.grid` is a 9x9 array of room ids (-1 = empty). `floor.rooms[id]` has `x`, `y`, `dist` (doors distance away from start) and `type`, which is one of `start`, `combat`, `boss`, `portal` or `shop` (room types)
 
-`index.html` is a demo that prints the map as text. Pick a seed and hit generate.
-
 MIT license.
