@@ -1,6 +1,7 @@
 *floorgen*
 
 Seeded floor generation logic from my latest project (JS, no dependencies)
+
 **(The whole thing is obviously heavily inspired by how The Binding of Isaac builds its maps.)**
 
 ```js
